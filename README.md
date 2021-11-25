@@ -1,30 +1,18 @@
-## Olá, Me chamo Eduardo, este é meu curriculo
-**NOME:** Eduardo Henrique Lima Silva
+# Olá! Meu nome é Eduardo e aqui vai sobre mim.
 
-**DATA DE NASCIMENTO:** 06 / 12 / 2002
+<div style="display: inline_block">
+ <img src="https://github-readme-stats.vercel.app/api?username=EduardoHrq&show_icons=true&bg_color=1C1C1C&text_color=F8F8FF&title_color=00FFFF&icon_color=00FFFF"/>
 
-**CONTATOS:**
-* **E-mail:** eduardohenriq0612002@gmail.com
-* **Celular:** (61) 9 9911-5197
-* **LinkedIn:**  [Acesso direto ao perfil](https://www.linkedin.com/in/eduardohrq/)
-* **[Currículo](https://scratch-liver-72b.notion.site/EDUARDO-HENRIQUE-LIMA-SILVA-539a2be47d2d4544bc04f6b93aed8627)**
+ <h3>CONTATOS:</h3> 
 
-**ENDEREÇO:**
-* **Cidade** → Cidade Ocidental
-* **Estado** → Goias
+</div>
 
----
 
-**FORMAÇÃO**
-* Ensino médio completo → conclusão em 2020
-* Ensino Superior em andamento, Curso: Engenharia de software 
-  * Instituição de ensino: UNICEPLAC - Gama DF
-  * Inicio em Janeiro de 2021 
-  * Conclusão em Dezembro de 2024
 
----
 
-**EXPERIÊNCIA** → Ainda sem experiência no mercado de trabalho.
 
---- 
+E-mail:** eduardohenriq0612002@gmail.com
+  Celular:** (61) 9 9911-5197
+  LinkedIn:**  [Acesso direto ao perfil](https://www.linkedin.com/in/eduardohrq/)
+  [Currículo](https://scratch-liver-72b.notion.site/EDUARDO-HENRIQUE-LIMA-SILVA-539a2be47d2d4544bc04f6b93aed8627)**
 
