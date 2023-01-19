@@ -1,7 +1,7 @@
 # Olá! Meu nome é Eduardo e aqui vai sobre mim.
 
 <div style="width: 100%">
- <img src="https://github-readme-stats.vercel.app/api?username=EduardoHrq&show_icons=true&bg_color=1C1C1C&text_color=F8F8FF&title_color=00FFFF&icon_color=00FFFF" width="100%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=EduardoHrq&show_icons=true&bg_color=1C1C1C&text_color=F8F8FF&title_color=00FFFF&icon_color=00FFFF" width="50%"/>
 </div>
 
 ### CONTATOS:
