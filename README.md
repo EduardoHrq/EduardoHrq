@@ -1,9 +1,10 @@
 # Olá! Meu nome é Eduardo e aqui vai sobre mim.
 
-<div style="width: 100%; display: flex;">
+<div style="">
   
-      <img src="https://github-readme-stats.vercel.app/api?username=EduardoHrq&show_icons=true&bg_color=1C1C1C&text_color=F8F8FF&title_color=00FFFF&icon_color=00FFFF" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoHrq&show_icons=true&bg_color=1C1C1C&text_color=F8F8FF&title_color=00FFFF&icon_color=00FFFF" width="50%"/>
   
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" width="7%" style="background-color: #12261d;"/>
   
 </div>
 
