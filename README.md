@@ -1,6 +1,6 @@
 # Eduardo Henrique
 
-Me chamo Eduardo Henrique, atualmente estou cursando engenharia de software, com previsão de concluir o curso em dezembro de 2024. Tenho mais habilidades com códigos, com isso, me destaco com java, python, javascript, mas também entendo de front-end com html, css e frameworks. tenho conhecimentos acerca do SCRUM
+Me chamo Eduardo Henrique, atualmente estou cursando engenharia de software, com previsão de concluir o curso em dezembro de 2024. Tenho mais habilidades com códigos, com isso, me destaco com java, javascript, mas também entendo de front-end com react. tenho conhecimentos acerca do SCRUM
 
 https://eduardohrq-devlinks.vercel.app/
 
