@@ -1,4 +1,6 @@
-# Eduardo Henrique
+<div style="width: 100%;">
+  <img src="name.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 Me chamo Eduardo Henrique, atualmente estou cursando engenharia de software, com previsão de concluir o curso em dezembro de 2024. Tenho mais habilidades com códigos, com isso, me destaco com java, javascript, mas também entendo de front-end com react. tenho conhecimentos acerca do SCRUM
 
