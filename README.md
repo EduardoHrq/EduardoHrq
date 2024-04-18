@@ -1,5 +1,5 @@
 <div>
-  <img src="name.svg" width="100%" height="60" alt="Click to see the source" disabled>
+  <img src="name.svg" width="100%" height="60" alt="Click to see the source">
 </div>
 
 Me chamo Eduardo Henrique, atualmente estou cursando engenharia de software, com previsão de concluir o curso em dezembro de 2024. Tenho mais habilidades com códigos, com isso, me destaco com java, javascript, mas também entendo de front-end com react. tenho conhecimentos acerca do SCRUM
