@@ -24,16 +24,17 @@
 
         .container {
           width: 100%;
+          height: fit-content;
           display: flex;
           justify-content: center;
           align-items: center;
           color: white;
           line-height: 0;
           opacity: 0;
+          background: black;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
           transition: all .2s;
-          animation: show 2s ease forwards;
-          animation-delay: 1s;
+          animation: show 1s ease forwards;
         }
 
         .container:hover {
