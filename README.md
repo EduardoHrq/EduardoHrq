@@ -29,6 +29,9 @@ https://eduardohrq-devlinks.vercel.app/
 
 ### other
 
+> [!NOTE]
+> Conheço ou já tive experiencia com
+
   <code><img src="https://skillicons.dev/icons?i=apple" /></code>
   <code><img src="https://skillicons.dev/icons?i=kotlin" /></code>
   <code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
