@@ -64,3 +64,7 @@ https://eduardohrq-devlinks.vercel.app/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoHrq&show_icons=true&bg_color=1e293b&text_color=FFF&title_color=38bdf8&icon_color=38bdf8)
 
 </details>
+
+[comment]: <> (a reference style link.)
+
+:tip: **TIP**: Conheço ou já tive experiência previa. 
