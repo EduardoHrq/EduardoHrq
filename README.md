@@ -8,12 +8,15 @@ https://eduardohrq-devlinks.vercel.app/
 
 ## Conecte-se comigo
 
-<a>
-  ![Linkedin](https://img.shields.io/badge/EduardoHrq-blue?logo=linkedin&style=for-the-badge)
+<a href="https://linkedin.com/in/eduardohrq" target="_blank">
+  <img src="https://img.shields.io/badge/EduardoHrq-blue?logo=linkedin&style=for-the-badge" />
 </a>
-![Instagram](https://img.shields.io/badge/EduardoHrq__-pink?logo=instagram&style=for-the-badge)
-![Linkedin](https://img.shields.io/badge/eduardohrq.silva06@gmail.com-gray?logo=gmail&style=for-the-badge)
-
+<a href="https://instagram.com/eduardohrq_" target="_blank">
+  <img src="https://img.shields.io/badge/EduardoHrq__-pink?logo=instagram&style=for-the-badge" />
+</a>
+<a href="mailto:eduardohrq.silva06@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/eduardohrq.silva06@gmail.com-gray?logo=gmail&style=for-the-badge" />
+</a>
 
 ## Habilidades
 
