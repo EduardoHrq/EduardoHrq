@@ -8,18 +8,18 @@ https://eduardohrq-devlinks.vercel.app/
 
 ## Conecte-se comigo
 
-<div>
-  <img src="social.svg" width="100%" height="60"/>
-</div>
-<!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardohrq/) -->
+<a>
+  ![Linkedin](https://img.shields.io/badge/EduardoHrq-blue?logo=linkedin&style=for-the-badge)
+</a>
+![Instagram](https://img.shields.io/badge/EduardoHrq__-pink?logo=instagram&style=for-the-badge)
+![Linkedin](https://img.shields.io/badge/eduardohrq.silva06@gmail.com-gray?logo=gmail&style=for-the-badge)
+
 
 ## Habilidades
 
 ### masters
 
 <code> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=spring" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=mysql" /></code>
-
-<br>
 
 <details>
 <summary></summary>
@@ -48,11 +48,7 @@ https://eduardohrq-devlinks.vercel.app/
 
 </details>
 
-<br>
-
 ---
-
-<br>
 
 <details>
 <summary>GithubStats</summary>
