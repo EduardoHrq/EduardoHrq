@@ -17,14 +17,7 @@ https://eduardohrq-devlinks.vercel.app/
 
 ### masters
 
-<code>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</code>
+<code> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=spring" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=mysql" /></code>
 
 <br>
 
@@ -33,63 +26,25 @@ https://eduardohrq-devlinks.vercel.app/
 
 ### other
 
-  <code>
-    <img src="https://skillicons.dev/icons?i=apple" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=kotlin" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=html" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=css" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=git" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=github" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=maven" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=mongo" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=npm" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=redis" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=vite" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=prisma" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=idea" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=styledcomponents" />
-  </code>
-  <code>
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </code>
-  <code>
-    <img src="https://img.icons8.com/?size=50&id=oBQdUqMEZHS9&format=png" />
-  </code>
+  <code><img src="https://skillicons.dev/icons?i=apple" /></code>
+  <code><img src="https://skillicons.dev/icons?i=kotlin" /></code>
+  <code><img src="https://skillicons.dev/icons?i=tailwind"/></code>
+  <code><img src="https://skillicons.dev/icons?i=html" /></code>
+  <code><img src="https://skillicons.dev/icons?i=css" /></code>
+  <code><img src="https://skillicons.dev/icons?i=git" /></code>
+  <code><img src="https://skillicons.dev/icons?i=github" /></code>
+  <code><img src="https://skillicons.dev/icons?i=nodejs" /></code>
+  <code><img src="https://skillicons.dev/icons?i=maven" /></code>
+  <code><img src="https://skillicons.dev/icons?i=mongo" /></code>
+  <code><img src="https://skillicons.dev/icons?i=npm" /></code>
+  <code><img src="https://skillicons.dev/icons?i=redis" /></code>
+  <code><img src="https://skillicons.dev/icons?i=vite" /></code>
+  <code><img src="https://skillicons.dev/icons?i=prisma" /></code>
+  <code><img src="https://skillicons.dev/icons?i=idea" /></code>
+  <code><img src="https://skillicons.dev/icons?i=postman" /></code>
+  <code><img src="https://skillicons.dev/icons?i=styledcomponents" /></code>
+  <code><img src="https://skillicons.dev/icons?i=linux" /></code>
+  <code><img src="https://img.icons8.com/?size=50&id=oBQdUqMEZHS9&format=png" /></code>
 
 </details>
 
