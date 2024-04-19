@@ -24,13 +24,16 @@ https://eduardohrq-devlinks.vercel.app/
 
 <code> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=spring" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=mysql" /></code>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 <details>
 <summary></summary>
 
 ### other
 
-> [!NOTE]
-> Conheço ou já tive experiencia com
+
+
 
   <code><img src="https://skillicons.dev/icons?i=apple" /></code>
   <code><img src="https://skillicons.dev/icons?i=kotlin" /></code>
