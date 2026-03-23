@@ -2,9 +2,9 @@
   <img src="name.svg" width="100%" height="60" alt="Click to see the source">
 </div>
 
-Me chamo Eduardo Henrique, atualmente estou cursando engenharia de software, com previsão de concluir o curso em dezembro de 2024. Tenho mais habilidades com códigos, com isso, me destaco com java, javascript, mas também entendo de front-end com react. tenho conhecimentos acerca do SCRUM
+Minha jornada no mundo da programação começou em casa aos 15 anos com video aulas, hoje graduado em Engenharia de software na UNICEPLAC, gama - DF. Nesta graduação pude adquirir conhecimentos a cerca da vida completa de um software e questões gerenciais e econômicas. Atualmente sou desenvolvedor Full-Stack com 1+ ano de experiência em desenvolvimento de soluções escaláveis utilizando arquiteturas de microsserviços. Especialista em Java, Kotlin e TypeScript, com sólida experiência em Spring Boot, Quarkus e Angular. Atuação destacada em projetos de integração de marketplaces, aplicando padrões arquiteturais modernos como Clean Architecture, DDD, Event Sourcing e CQRS. Experiência prática com Apache Kafka (Parallel Consumer), AWS, Terraform e Kubernetes, desenvolvendo soluções de alta performance e confiabilidade. Comprometido com qualidade de código através de TDD e práticas de desenvolvimento ágil.
 
-https://eduardohrq-devlinks.vercel.app/
+[DevLinks](https://eduardohrq-linksdev.vercel.app/)
 
 ## Conecte-se comigo
 
@@ -22,7 +22,7 @@ https://eduardohrq-devlinks.vercel.app/
 
 ### masters
 
-<code> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=kotlin" /> <img src="https://skillicons.dev/icons?i=spring" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=ts" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=maven" /> </code>
+<code> <img src="https://skillicons.dev/icons?i=java,kotlin,spring,idea,js,ts,mongo,redis,mysql,kafka,kubernetes,maven,angular,ubuntu,apple" /> </code>
 
 <details>
 <summary></summary>
@@ -38,15 +38,15 @@ https://eduardohrq-devlinks.vercel.app/
   <code><img src="https://skillicons.dev/icons?i=git" /></code>
   <code><img src="https://skillicons.dev/icons?i=github" /></code>
   <code><img src="https://skillicons.dev/icons?i=nodejs" /></code>
-  <code><img src="https://skillicons.dev/icons?i=mongo" /></code>
+  <code><img src="https://skillicons.dev/icons?i=react" /></code>
   <code><img src="https://skillicons.dev/icons?i=npm" /></code>
-  <code><img src="https://skillicons.dev/icons?i=redis" /></code>
   <code><img src="https://skillicons.dev/icons?i=vite" /></code>
   <code><img src="https://skillicons.dev/icons?i=prisma" /></code>
-  <code><img src="https://skillicons.dev/icons?i=idea" /></code>
   <code><img src="https://skillicons.dev/icons?i=postman" /></code>
   <code><img src="https://skillicons.dev/icons?i=styledcomponents" /></code>
   <code><img src="https://skillicons.dev/icons?i=linux" /></code>
+  <code><img src="https://skillicons.dev/icons?i=terraform" /></code>
+  <code><img src="https://skillicons.dev/icons?i=grafana" /></code>
   <code><img src="https://img.icons8.com/?size=50&id=oBQdUqMEZHS9&format=png" /></code>
 
 </details>
